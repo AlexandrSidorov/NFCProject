@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">SampleProjectMaterial</string>
+
+    <string name="hello_world" translatable="false">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="start" translatable="false">Start service</string>
+    <string name="stop" translatable="false">Stop service</string>
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="userTV">Login</string>
+    <string name="enterLoginHint">Enter user name</string>
+    <string name="passTV">Password</string>
+    <string name="hintEnterPassword">Enter your password</string>
+    <string name="authBtn">Sign In</string>
+    <string name="rf_error_title">Server error</string>
+    <string name="ok" translatable="false">Ok</string>
+    <string name="input_error_text">Please, check your input. You must enter login and password.</string>
+    <string name="input_error">Wrong input</string>
+    <string name="progress_dialog">Waiting</string>
+    <string name="please_wait">Connecting with server...</string>
+    <string name="title_activity_base">BaseActivity</string>
+    <string name="logout">Log out</string>
+    <string name="auth_success">Authorization success</string>
+    <string name="cancel">Cancel</string>
+    <string name="auth_need">Authorization</string>
+
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SampleProjectMaterial</string>
+    <string name="action_settings">Настройки</string>
+    <string name="authBtn">Войти</string>
+    <string name="enterLoginHint">Введите имя пользователя</string>
+    <string name="hintEnterPassword">Введите пароль</string>
+    <string name="passTV">Пароль</string>
+    <string name="userTV">Имя пользователя</string>
+    <string name="input_error">Проверьте введенные данные</string>
+    <string name="input_error_text">Пожалуйста, проверьте введенные данные.\nНеобходимо ввести и логин, и пароль.</string>
+    <string name="please_wait">Идет обмен данных с сервером</string>
+    <string name="progress_dialog">Ожидайте</string>
+    <string name="rf_error_title">Ошибка сервера</string>
+    <string name="logout">Выйти из профиля</string>
+    <string name="auth_success">Авторизация прошла успешно</string>
+    <string name="cancel">Отмена</string>
+    <string name="auth_need">Авторизация</string>
+</resources>
